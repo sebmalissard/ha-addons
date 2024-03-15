@@ -1,0 +1,10 @@
+name: "docs-website"
+description: "Documentation website add-on!"
+version: "1.0.0"
+slug: "docs-website"
+init: false
+arch:
+  - aarch64
+  - amd64
+ports:
+  80/tcp: 80
